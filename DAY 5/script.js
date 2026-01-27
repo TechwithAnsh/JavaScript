@@ -8,8 +8,8 @@ console.log(sub)
 
 
 
-let firstName = "John";
-let lastName = "Doe";
+let firstName = "ANSH";
+let lastName = "KUMAR";
 // let fullName = firstName.concat(" ", lastName); 
 // let fullName= firstName +" "+ lastName
 
@@ -19,9 +19,9 @@ console.log(fullName);
 
 let university="K.R Mangalam";
 let program = "BCA AI/DS";
-console.log("My name is S.P Acharya and im pursuing"+" "+ program+ " from " + university)
+console.log("My name is ANSH KUMAR and im pursuing"+" "+ program+ " from " + university)
 
-console.log(`my name is s.p Acharya and im pursuing ${program} from ${university}`);
+console.log(`my name is ANSH KUMAR and im pursuing ${program} from ${university}`);
 
 
 let arr=[1,2,3]
